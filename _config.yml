@@ -25,10 +25,10 @@ description: 기록 log log taht shit
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    # - Learn markdown: "http://www.markdowntutorial.com/"
+    # - GitHub Pages: "https://pages.github.com/"
+  # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -252,5 +252,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
